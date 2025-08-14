@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 - Meu nome é Pedro Asafe
 - Esse perfil é direcionado ao curso [Alura](https://www.alura.com.br/), realizado nas aulas de tecnologia da escola
